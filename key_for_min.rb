@@ -10,5 +10,5 @@ name_hash.each do |k,v|
     mi_k = k
   end
 end
-return mi_kl
+return mi_k
 end
