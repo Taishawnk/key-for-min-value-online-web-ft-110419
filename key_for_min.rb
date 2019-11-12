@@ -7,5 +7,6 @@ mi_k = nil
 name_hash.each do |k,v|
   if v < mi_val 
     mi_val = v
+  mi_k = k
 
 end
